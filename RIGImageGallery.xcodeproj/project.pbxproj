@@ -714,7 +714,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -734,7 +734,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.raizlabs.RIGImageGallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -757,6 +757,7 @@
 				722523701E3276F300D50D16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72A827F31C68F17900B25CEE /* Build configuration list for PBXProject "RIGImageGallery" */ = {
 			isa = XCConfigurationList;
